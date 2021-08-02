@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/11-simple-kafka-streams.iml" filepath="$PROJECT_DIR$/.idea/11-simple-kafka-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kstream-globalktable-join.iml" filepath="$PROJECT_DIR$/.idea/kstream-globalktable-join.iml" />
     </modules>
   </component>
 </project>
